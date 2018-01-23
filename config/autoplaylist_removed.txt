@@ -1,0 +1,486 @@
+# Entry removed Tue Jan 16 15:06:40 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=7jTgkTEDDog
+
+################################
+
+# Entry removed Tue Jan 16 15:06:51 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=BE9CXWV1alg
+
+################################
+
+# Entry removed Tue Jan 16 15:06:51 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=STzVhyLEf44
+
+################################
+
+# Entry removed Tue Jan 16 15:06:51 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=CB3H05OhVDI
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=o_l4Ab5FRwM
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=RAOnUF8t20w
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=Nj8r3qmOoZ8
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=bpOSxM0rNPM
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=LILL0AV0938
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=N6JbwiVl-8g
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=WIzYZXUq3Vo
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=h-kmLkfFrtU
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=v1_6yAICQUI
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=OzvasAJIHb4
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=GyAAwCu-Lu4
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=P4i7xDJ5zoM
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=1j4Pf228vhE
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=gTEmvVXxLkw
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=XkCA2XqUJ4o
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=pAgnJDJN4VA
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=gib-lcHlzUY
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=5k3casyhOis
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=zP0Pgml0emQ
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=Y7VGOnV2QhU
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=9qHt1us0L5M
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=-B8aiDGuXAA
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=iGtEH1i78sI
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=KXcpmEhhsKg
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=7wtfhZwyrcc
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=mWRsgZuwf_8
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=oJwe4be_114
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=lil4CSo9LXs
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=KZaz7OqyTHQ
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=A1OqtIqzScI
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=Soa3gO7tL-c
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=jNFgynmVmx0
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=dhcGNN9r1D4
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=jsdawgd0azk
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=QgFHL2R8m6s
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=S9tBzyCsy8w
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=iywaBOMvYLI
+
+################################
+
+# Entry removed Tue Jan 16 15:06:52 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=I_IpEDrK0FM
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=wcJE6B-z2dk
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=Nt9EYSpzlTg
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=woalhgxmnDo
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=fBGSJ3sbivI
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=acIU7yxzJ70
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=jRkxRfoYJDc
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=dhldbymXK-8
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=vb3W_gPNRLo
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=WATqxc49eZc
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=hhSA9H9Iaqw
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=aLcnZQ7wt0w
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=jfA9nuMGSDg
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=3s1sE5jZNJ4
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=09LTT0xwdfw
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=yQm3mrXX9Mk
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=o0W91FrTlYk
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=4jhxYazSgVc
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=ITLUtQ3PraA
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=1kz6hNDlEEg
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=pdoIs1jZbCY
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=OH9A6tn_P6g
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=8m8VlyWDC-M
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=9cNpKRXwaj4
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=9-SQGOYOjxs
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=JHiqGqoIGII
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=rHBxJCq99jA
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=HYWdgBtSM8s
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=6nQCxwneUwA
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=FuhazBBYqno
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=e8X3ACToii0
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=BrzaEbYaYcA
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=ocXjr9nPnvg
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=o3W5ngVTtRE
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=aCyGvGEtOwc
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=qIDzPUt20F4
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=bkODPAqcxvQ
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=ktvTqknDobU
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=_nrlsUvbKTs
+
+################################
+
+# Entry removed Tue Jan 16 15:06:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=aWxBrI0g1kE
+
+################################
+

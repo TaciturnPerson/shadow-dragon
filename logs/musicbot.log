@@ -1,0 +1,89 @@
+[514.866590500] 2018-01-23 13:27:32,972 - INFO - launcher: Starting sanity checks
+[515.384197235] 2018-01-23 13:27:32,972 - INFO - launcher: Checking for Python 3.5+
+[516.367912292] 2018-01-23 13:27:32,973 - INFO - launcher: Checking console encoding
+[516.367912292] 2018-01-23 13:27:32,973 - INFO - launcher: Setting console encoding to UTF-8
+[516.867876053] 2018-01-23 13:27:32,974 - INFO - launcher: Ensuring we're in the right environment
+[528.886556625] 2018-01-23 13:27:32,986 - INFO - launcher: Adding local bins/ folder to path
+[529.377460480] 2018-01-23 13:27:32,986 - INFO - launcher: Required checks passed.
+[529.892206192] 2018-01-23 13:27:32,987 - INFO - launcher: Optional checks passed.
+[530.377388000] 2018-01-23 13:27:32,987 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[21.3099164962768555] 2018-01-23 13:27:53,767 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 213 in _setup_logging: Set logging level to INFO
+[21.3099164962768555] 2018-01-23 13:27:53,767 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 80 in __init__: =========== MusicBot (version 1.9.6_1) ===========
+[21.3109178543090820] 2018-01-23 13:27:53,768 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 86 in __init__: Loaded autoplaylist with 18 entries
+[21.311918020] launcher-INFO: Connecting
+[24.8561129570007324] 2018-01-23 13:27:57,313 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 1011 in on_ready: Connection established, ready to go.
+[24.8566138744354248] 2018-01-23 13:27:57,314 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 324 in _cache_app_info: Caching app info
+[25.0783088207244873] 2018-01-23 13:27:57,535 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 828 in _scheck_ensure_env: Ensuring data folders exist
+[25.0833122730255127] 2018-01-23 13:27:57,540 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 838 in _scheck_ensure_env: Deleted old audio cache
+[25.0833122730255127] 2018-01-23 13:27:57,540 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 844 in _scheck_server_permissions: Checking server permissions
+[25.0833122730255127] 2018-01-23 13:27:57,540 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 848 in _scheck_autoplaylist: Auditing autoplaylist
+[25.0833122730255127] 2018-01-23 13:27:57,540 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 852 in _scheck_configs: Validating config
+[25.0833122730255127] 2018-01-23 13:27:57,540 - DEBUG - musicbot.config | In config.py::MainThread(8372), line 155 in async_validate: Validating options...
+[25.0833122730255127] 2018-01-23 13:27:57,540 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 855 in _scheck_configs: Validating permissions config
+[25.0833122730255127] 2018-01-23 13:27:57,540 - DEBUG - musicbot.permissions | In permissions.py::MainThread(8372), line 59 in async_validate: Validating permissions...
+[25.0838127136230469] 2018-01-23 13:27:57,541 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1022 in on_ready: Connected to Discord!
+[25.0843129158020020] 2018-01-23 13:27:57,541 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1032 in on_ready: Bot:   374867701039890433/DarkDragon#2947 [BOT]
+[25.0848243236541748] 2018-01-23 13:27:57,542 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1040 in on_ready: Owner: 236184944064331777/TaciturnPerson#3556
+
+[25.0853269100189209] 2018-01-23 13:27:57,542 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1043 in on_ready: Server List:
+[25.0853269100189209] 2018-01-23 13:27:57,542 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1044 in <listcomp>:  - Тестовичок
+[25.0978398323059082] 2018-01-23 13:27:57,555 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1044 in <listcomp>:  - ShadowFox Valley
+[25.0978398323059082] 2018-01-23 13:27:57,555 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1075 in on_ready: Bound to text channels:
+[25.0983929634094238] 2018-01-23 13:27:57,555 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1076 in <listcomp>:  - Тестовичок/music
+[25.0983929634094238] 2018-01-23 13:27:57,555 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1076 in <listcomp>:  - ShadowFox Valley/sound
+[25.0988950729370117] 2018-01-23 13:27:57,556 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1101 in on_ready: Autojoining voice chanels:
+[25.0988950729370117] 2018-01-23 13:27:57,556 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1102 in <listcomp>:  - ShadowFox Valley/sound📻
+[25.0993955135345459] 2018-01-23 13:27:57,556 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1118 in on_ready: Options:
+[25.0998964309692383] 2018-01-23 13:27:57,557 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1120 in on_ready:   Command prefix: !
+[25.0998964309692383] 2018-01-23 13:27:57,557 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1121 in on_ready:   Default volume: 15%
+[25.1003959178924561] 2018-01-23 13:27:57,557 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1123 in on_ready:   Skip threshold: 4 votes or 50%
+[25.1008963584899902] 2018-01-23 13:27:57,558 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1124 in on_ready:   Now Playing @mentions: Enabled
+[25.1013963222503662] 2018-01-23 13:27:57,558 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1125 in on_ready:   Auto-Summon: Enabled
+[25.1019053459167480] 2018-01-23 13:27:57,559 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1126 in on_ready:   Auto-Playlist: Enabled
+[25.1023976802825928] 2018-01-23 13:27:57,559 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1127 in on_ready:   Auto-Pause: Enabled
+[25.1034140586853027] 2018-01-23 13:27:57,560 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1128 in on_ready:   Delete Messages: Enabled
+[25.1038985252380371] 2018-01-23 13:27:57,561 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1130 in on_ready:     Delete Invoking: Enabled
+[25.1043987274169922] 2018-01-23 13:27:57,561 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1131 in on_ready:   Debug Mode: Disabled
+[25.1048994064331055] 2018-01-23 13:27:57,562 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 1132 in on_ready:   Downloaded songs will be deleted
+[25.1059000492095947] 2018-01-23 13:27:57,563 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 267 in _join_startup_channels: Attempting to join ShadowFox Valley/sound📻
+[25.1084015369415283] 2018-01-23 13:27:57,565 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 437 in get_voice_client: Connection attempt 1 to sound📻
+[25.1084015369415283] 2018-01-23 13:27:57,565 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(8372), line 376 in join_voice_channel: (join_voice_channel) creating futures
+[25.1089026927947998] 2018-01-23 13:27:57,566 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(8372), line 382 in join_voice_channel: (join_voice_channel) setting voice state
+[25.1094026565551758] 2018-01-23 13:27:57,566 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(8372), line 385 in join_voice_channel: (join_voice_channel) waiting for session id
+[25.2986886501312256] 2018-01-23 13:27:57,756 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(8372), line 2564 in on_voice_state_update: Voice state update for 374867701039890433/DarkDragon#2947 on ShadowFox Valley/sound📻 -> [JOIN, CONNECT]
+[25.2986886501312256] 2018-01-23 13:27:57,756 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 2575 in on_voice_state_update: 374867701039890433/DarkDragon#2947 has joined ShadowFox Valley/sound📻
+[25.2996892929077148] 2018-01-23 13:27:57,757 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(8372), line 389 in join_voice_channel: (join_voice_channel) waiting for voice data
+[25.4549891948699951] 2018-01-23 13:27:57,912 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(8372), line 403 in join_voice_channel: (join_voice_channel) connecting...
+[25.7101888656616211] 2018-01-23 13:27:58,167 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(8372), line 415 in join_voice_channel: (join_voice_channel) connection successful
+[25.7101888656616211] 2018-01-23 13:27:58,167 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 463 in get_voice_client: Connected in 0.6s
+[25.7106885910034180] 2018-01-23 13:27:58,168 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 464 in get_voice_client: Connected to ShadowFox Valley/sound📻
+[25.7111892700195312] 2018-01-23 13:27:58,168 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 805 in deserialize_queue: Deserializing queue for 338355570669256705
+[26.0875861644744873] 2018-01-23 13:27:58,545 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 555 in get_player: Created player via deserialization for server 338355570669256705 with 1 entries
+[26.0875861644744873] 2018-01-23 13:27:58,545 - INFO - musicbot.bot | In bot.py::MainThread(8372), line 283 in _join_startup_channels: Joined ShadowFox Valley/sound📻
+[26.0885860919952393] 2018-01-23 13:27:58,546 - VOICEDEBUG - musicbot.player | In player.py::MainThread(8372), line 311 in websocket_check: Starting websocket check loop for ShadowFox Valley
+[26.0885860919952393] 2018-01-23 13:27:58,546 - FFMPEG - musicbot.player | In player.py::MainThread(8372), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-gNyQxgAPnEU-Hollywood_Undead_-_Circles_Lyrics_Video.webm
+[26.3399341106414795] 2018-01-23 13:27:58,797 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 781 in serialize_queue: Serializing queue for 338355570669256705
+[26.3764600753784180] 2018-01-23 13:27:58,833 - FFMPEG - musicbot.player | In player.py::Thread-6 stderr reader(4888), line 409 in filter_stderr: Data from ffmpeg: b'audio_cache\\youtube-gNyQxgAPnEU-Hollywood_Undead_-_Circles_Lyrics_Video.webm: No such file or directory\r\n'
+[26.3794622421264648] 2018-01-23 13:27:58,836 - DEBUG - musicbot.player | In player.py::MainThread(8372), line 197 in _playback_finished: Deleting file: audio_cache\youtube-gNyQxgAPnEU-Hollywood_Undead_-_Circles_Lyrics_Video.webm
+[26.3804626464843750] 2018-01-23 13:27:58,837 - ERROR - musicbot.player | In player.py::MainThread(8372), line 227 in _delete_file: Error trying to delete audio_cache\youtube-gNyQxgAPnEU-Hollywood_Undead_-_Circles_Lyrics_Video.webm
+Traceback (most recent call last):
+  File "C:\Users\Viktor\MusicBot\musicbot\player.py", line 219, in _delete_file
+    os.unlink(filename)
+FileNotFoundError: [WinError 3] Системе не удается найти указанный путь: 'audio_cache\\youtube-gNyQxgAPnEU-Hollywood_Undead_-_Circles_Lyrics_Video.webm'
+[30.6233689785003662] 2018-01-23 13:28:03,080 - INFO - musicbot.entry | In entry.py::MainThread(8372), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=r00ikilDxW4
+[124.2438240051269531] 2018-01-23 13:29:36,701 - INFO - musicbot.entry | In entry.py::MainThread(8372), line 226 in _really_download: Download complete: https://www.youtube.com/watch?v=r00ikilDxW4
+[124.2503280639648438] 2018-01-23 13:29:36,707 - FFMPEG - musicbot.player | In player.py::MainThread(8372), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-r00ikilDxW4-Green_Day_-_21_Guns_Official_Music_Video.webm
+[124.4519712924957275] 2018-01-23 13:29:36,909 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 781 in serialize_queue: Serializing queue for 338355570669256705
+[450.5332489013671875] 2018-01-23 13:35:02,990 - DEBUG - musicbot.player | In player.py::MainThread(8372), line 197 in _playback_finished: Deleting file: audio_cache\youtube-r00ikilDxW4-Green_Day_-_21_Guns_Official_Music_Video.webm
+[454.5400230884552002] 2018-01-23 13:35:06,997 - INFO - musicbot.entry | In entry.py::MainThread(8372), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=jwK7-u_0VWk
+[515.0552136898040771] 2018-01-23 13:36:07,512 - INFO - musicbot.entry | In entry.py::MainThread(8372), line 226 in _really_download: Download complete: https://www.youtube.com/watch?v=jwK7-u_0VWk
+[515.0582156181335449] 2018-01-23 13:36:07,515 - FFMPEG - musicbot.player | In player.py::MainThread(8372), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-jwK7-u_0VWk-The_Neighbourhood_-_Female_Robbery.webm
+[515.2089574337005615] 2018-01-23 13:36:07,666 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 781 in serialize_queue: Serializing queue for 338355570669256705
+[750.8904495239257812] 2018-01-23 13:40:03,347 - DEBUG - musicbot.player | In player.py::MainThread(8372), line 197 in _playback_finished: Deleting file: audio_cache\youtube-jwK7-u_0VWk-The_Neighbourhood_-_Female_Robbery.webm
+[753.9386262893676758] 2018-01-23 13:40:06,396 - INFO - musicbot.entry | In entry.py::MainThread(8372), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=_DboMAghWcA
+[828.9649112224578857] 2018-01-23 13:41:21,422 - INFO - musicbot.entry | In entry.py::MainThread(8372), line 226 in _really_download: Download complete: https://www.youtube.com/watch?v=_DboMAghWcA
+[828.9674282073974609] 2018-01-23 13:41:21,424 - FFMPEG - musicbot.player | In player.py::MainThread(8372), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-_DboMAghWcA-Rise_Against_-_Hero_Of_War.webm
+[829.1255443096160889] 2018-01-23 13:41:21,583 - DEBUG - musicbot.bot | In bot.py::MainThread(8372), line 781 in serialize_queue: Serializing queue for 338355570669256705
