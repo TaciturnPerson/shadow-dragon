@@ -1,2 +1,1 @@
-worker: runbot.bat
-web: runbot.bat
+worker: python3.5 run.py
